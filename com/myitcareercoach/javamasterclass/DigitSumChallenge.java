@@ -12,12 +12,12 @@ public class DigitSumChallenge {
 		
 		System.out.println("++++Tims solution+++++");
 		
-		System.out.println(sumDigits(0));
-		System.out.println(sumDigits(-4));
-		System.out.println(sumDigits(125));
-		System.out.println(sumDigits(1));
-		System.out.println(sumDigits(1099));
-		System.out.println(sumDigits(6634));
+		System.out.println(sumDigitsTimsSolution(0));
+		System.out.println(sumDigitsTimsSolution(-4));
+		System.out.println(sumDigitsTimsSolution(125));
+		System.out.println(sumDigitsTimsSolution(1));
+		System.out.println(sumDigitsTimsSolution(1099));
+		System.out.println(sumDigitsTimsSolution(6634));
 		
 	}
 
