@@ -1,3 +1,5 @@
+package com.myitcareercoach.javamasterclass;
+
 public class Floor {
 
 	private double width;
